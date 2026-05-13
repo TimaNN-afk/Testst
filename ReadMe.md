@@ -18,7 +18,9 @@
 4: Приглашение к вводу ( Пользователю должно выводиться что именно он должен ввести  )
 5: Не использовать проф слова ( Не использователь слова из профессионального лексикона, чтобы он понимал что от него требуется )
 
-<img width="641" height="801" alt="Диаграмма без названия drawio (2)" src="https://github.com/user-attachments/assets/45ca5800-561a-4c9e-b84a-8c0ed03e4dca" />
+<img width="641" height="601" alt="1 drawio" src="https://github.com/user-attachments/assets/159c157b-bc6c-4d94-9b03-d5f95570312d" />
+<img width="601" height="344" alt="2 drawio" src="https://github.com/user-attachments/assets/9b9c4267-f9b7-4619-ae38-908d149a7e15" />
+
 
 
 
