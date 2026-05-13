@@ -22,7 +22,8 @@
 
 
 
-<img width="601" height="344" alt="2 drawio" src="https://github.com/user-attachments/assets/9b9c4267-f9b7-4619-ae38-908d149a7e15" />
+<img width="601" height="344" alt="3 drawio" src="https://github.com/user-attachments/assets/86be7d10-8cd1-4ab2-98db-558ff714165b" />
+
 
 
 
