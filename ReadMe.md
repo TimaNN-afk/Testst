@@ -19,6 +19,9 @@
 5: Не использовать проф слова ( Не использователь слова из профессионального лексикона, чтобы он понимал что от него требуется )
 
 <img width="641" height="601" alt="1 drawio" src="https://github.com/user-attachments/assets/159c157b-bc6c-4d94-9b03-d5f95570312d" />
+
+
+
 <img width="601" height="344" alt="2 drawio" src="https://github.com/user-attachments/assets/9b9c4267-f9b7-4619-ae38-908d149a7e15" />
 
 
