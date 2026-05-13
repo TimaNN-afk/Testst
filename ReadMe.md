@@ -20,9 +20,8 @@
 
 <img width="641" height="601" alt="1 drawio" src="https://github.com/user-attachments/assets/159c157b-bc6c-4d94-9b03-d5f95570312d" />
 
+<img width="681" height="634" alt="Math drawio" src="https://github.com/user-attachments/assets/993819c7-a905-45f0-9176-bea45f610678" />
 
-
-<img width="601" height="344" alt="3 drawio" src="https://github.com/user-attachments/assets/86be7d10-8cd1-4ab2-98db-558ff714165b" />
 
 
 
