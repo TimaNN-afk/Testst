@@ -9,15 +9,15 @@ public:
 	Vector2D(int xBeg, int yBeg, int xEnd, int yEnd) : pointBeg(xBeg, yBeg), pointEnd(xEnd, yEnd) {}
 	Vector2D sub(Vector2D vector)
 	{
-		return vector; // Р·Р°РіР»СѓС€РєР°
+		return vector; // заглушка
 	}
 	Vector2D add(Vector2D vector)
 	{
-		return vector; // Р·Р°РіР»СѓС€РєР°
+		return vector; // заглушка
 	}
 	static int scalar(Vector2D vector1, Vector2D vector2, int cos)
 	{
-		return 0; // Р·Р°РіР»СѓС€РєР°
+		return 0; // заглушка
 	}
 	Point getPointBeg() const
 	{
@@ -59,7 +59,7 @@ public:
 	}
 
 
-	
+
 private:
 	double length;
 	Point pointBeg;

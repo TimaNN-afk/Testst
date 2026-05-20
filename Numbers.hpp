@@ -1,8 +1,9 @@
-#ifndef NUMBERS_HPP
+﻿#ifndef NUMBERS_HPP
 #define NUMBERS_HPP
 
 #include <time.h>
 #include <iostream>
+
 
 class Numbers
 {
@@ -17,36 +18,52 @@ public:
 		return num;
 	}
 	template <typename type>
-	static type sqrt(type num)
+	static int sqrt(type num)
 	{
-		return 0; // заглушка
+		type temp = 0;
+		while (!(temp * temp == num))
+		{
+			temp++;
+		}
+		return std::trunc(temp);
 	}
 	static int random(int min, int max)
 	{
 		if (min > max)
 		{
-			std::swap(min, max); 
+			std::swap(min, max);
 		}
 		return min + std::rand() % (max - min + 1);
 	}
 	static int random(int min, int max, int gap)
 	{
-		return 0; // заглушка
+		return 0; // çàãëóøêà
 	}
 	template <typename type>
 	static int roundLittle(type num)
 	{
-		return std::stoi(num);
+		return std::trunc(num);
 	}
 	template <typename type>
 	static int roundBig(type num)
 	{
-		return std::stoi(num) + 1;
+		if (num > 0)
+		{
+			return std::trunc(num) + 1;
+		}
+		return std::trunc(num) - 1;
 	}
 	template <typename type>
 	static int roundMath(type num)
 	{
-		return 0; // заглушка
+		if (num >= 0.0)
+		{
+			return roundLittle(num + 0.5);
+		}
+		else
+		{
+			return roundLittle(num - 0.5);
+		}
 	}
 };
 

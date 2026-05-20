@@ -4,5 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../UnitTest1/UnitTest1.vcxproj" />
-  <Project Path="MathLibraly.vcxproj" />
+  <Project Path="MathLibraly.vcxproj" Id="67de3783-0da4-405f-87c5-a1aa15dffd50" />
+  <Project Path="UnitTest/UnitTest.vcxproj" />
 </Solution>
